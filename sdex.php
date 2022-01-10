@@ -1,6 +1,6 @@
 <?php 
     require_once "../s1/index.php";
-    require_once "types/index.php";
+    require_once __DIR__ . "/types/index.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
